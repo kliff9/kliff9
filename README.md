@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 👋 Hi, I’m @kliff9
+
 👀 I’m interested in Blockhain development and Software
+
 🌱 I’m currently learning solidity, javascript, SQL, React.js, Node.js
 💞️ I’m looking to intern in software development and/or blockchain development
 📫 How to reach me ... twitter @SilverKliff
