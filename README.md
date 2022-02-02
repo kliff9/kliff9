@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋 Hi, I’m @kliff9
+
 -->
 
 
-- 👋 Hi, I’m @kliff9
 - 👀 I’m interested in Blockhain development and Software
-- 🌱 I’m currently learning solidity, javascript, Python, React.js, Node.js
-- 💞️ I’m looking to intern in software development and/or blockchain development
-- 📫 How to reach me ... twitter @SilverKliff
+- 🌱 I’m currently learning Solidity, Javascript(React.js, Node.js), Python
+- 💞️ I’m looking to intern/work in software development and/or blockchain development
+- 📫 How to reach me ... twitter: @SilverKliff Github: @kliff9
