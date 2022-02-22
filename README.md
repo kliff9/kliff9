@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Solidity, Javascript(React.js, Web3.js Ether.js ), and Hardhat
 - 💼 I’m looking to intern/work in software development and/or blockchain development
 - ⚡ Fun fact: Programming is acctually fun
-- 📫 How to reach me ... twitter: @SilverKliff Github: @kliff9
+- 📫 How to reach me ... twitter: @SilverKliff
