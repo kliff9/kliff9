@@ -1,27 +1,9 @@
-### Hi there 👋
-
-<!--
-**kliff9/kliff9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👋 Hi, I’m @kliff9
-
--->
+# Hi there 👋
 
 ## bio
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Solidity, Rust, Javascript(React.js, Web3.js Ether.js ), and Hardhat
 - 💼 I’m looking to intern/work in software development
-- ⚡ Fun fact: Programming is acctually fun
 - 📫 How to reach me ... twitter: @SilverKliff
 
 
