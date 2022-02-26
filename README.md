@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 💼 I’m looking to intern/work in software development and/or blockchain development
 - ⚡ Fun fact: Programming is acctually fun
 - 📫 How to reach me ... twitter: @SilverKliff
+
+My Life in 4 Words:
+
+![EaTSleepCodeRepeat](https://user-images.githubusercontent.com/32655437/155840412-997b12d9-f6ce-4439-8439-46eb2b20a312.gif)
