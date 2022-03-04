@@ -10,6 +10,7 @@
 - Python
 - HTML / CSS
 - JavaScript
+- TypeScript
 - React
 - C#
 - Solidity
