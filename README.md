@@ -2,7 +2,7 @@
 ## Information
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Web 3.0
-- 💼 I’m looking to intern/work in software development
+- 💼 I’m looking to work in software development
 - 📫 How to reach me ... twitter: @SilverKliff
 
 
