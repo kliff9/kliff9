@@ -1,7 +1,7 @@
 
 ## Information
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Web 3.0
+- 🌱 I’m currently learning Angular and Rust
 - 💼 I’m looking to work in software development
 - 📫 How to reach me ... twitter: @SilverKliff
 
