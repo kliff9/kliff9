@@ -13,7 +13,9 @@
 - TypeScript
 - React
 - C#
+- Java
 - Solidity
+- Rust
 
 ##### My Life in 4 Words:
 
