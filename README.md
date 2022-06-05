@@ -1,7 +1,6 @@
 
 ## Information
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Solana and Rust
 - 💼 I’m looking to work in software development
 - 📫 How to reach me ... twitter: @SilverKliff
 
