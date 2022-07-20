@@ -11,6 +11,7 @@
 - JavaScript
 - TypeScript
 - React
+- Angular
 - C#
 - Java
 - Solidity
